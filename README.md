@@ -1,1 +1,1 @@
-# SIGN-Language-detection-using-YOLO-
+# SIGN-Language-detection-using-YOLO
